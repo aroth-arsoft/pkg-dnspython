@@ -1,3 +1,9 @@
+dnspython (1.15.0-1.1~aroth1) yakkety; urgency=medium
+
+  * backport latest version
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Tue, 28 Mar 2017 20:33:26 +0200
+
 dnspython (1.15.0-1) unstable; urgency=medium
 
   * New upstream release
